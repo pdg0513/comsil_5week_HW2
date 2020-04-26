@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("github extension for Visual studio");
+	printf("github extension for Visual studio\¤Ì");
 }
